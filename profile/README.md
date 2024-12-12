@@ -1,16 +1,11 @@
 ## Welcome to the github space of the Microbiology group from ISGlobal 👋
 
+🙋‍♀️ [ISGlobal](https://www.isglobal.org/en/quienes-somos)'s mission is to improve global health and promote health equity through excellence in research and the translation and application of knowledge. Our [research group]((https://www.isglobal.org/en/resistencia-antimicrobiana)) focuses on the molecular bases of microbial resistance on multiple clinical multiresistant bacteria.
 
+👩‍💻 Below you can find a compilation of curated pipelines built using [Nextflow](https://github.com/nextflow-io/) aimed to ease the research on antimicrobial resistant genes (ARGs) in clinical strains.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-
-🌈 Contribution guidelines - how can the community get involved?
-
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-
-🍿 Fun facts - what does your team eat for breakfast?
-
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
+<center>
+🌈 
+🍿 
+🧙 
+</center>
