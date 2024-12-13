@@ -5,7 +5,7 @@
 👩‍💻 Below you can find a compilation of curated pipelines built using [Nextflow](https://github.com/nextflow-io/) aimed to ease the research on antimicrobial resistant genes (ARGs) in clinical strains.
 
 <center>
-🌈 
-🍿 
-🧙 
+🌈      
+🍿      
+🧙      
 </center>
